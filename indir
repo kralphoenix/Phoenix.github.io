@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Dosya İndir</title>
+</head>
+<body style="text-align: center; padding-top: 100px; font-family: Arial;">
+  <h1>Dosya İndir</h1>
+  <a href="https://drive.google.com/uc?export=download&id=1DZNQ89B_GzSVrzkuPUEGe-2bkkKTQudo">
+    <button style="padding: 10px 20px; font-size: 16px;">Dosyayı İndir</button>
+  </a>
+</body>
+</html>
